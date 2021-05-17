@@ -15,7 +15,7 @@ Happiness is this evasive feeling that people are in pursuit of constantly. I ca
 6. Economy (GDP per Capita) - The extent to which GDP contributes to the calculation of the Happiness Score
 
 
-Based on this data I wanted to understand or answer these following questions based
+Based on this data I wanted to understand or answer these following questions
 
 1. What are happiest countries in the world?
 2. What are common amongst these happy countries and What makes these countries happy?
