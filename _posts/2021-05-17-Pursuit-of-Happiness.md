@@ -78,6 +78,9 @@ It is also beneficial to look at which countries are happy countries of tomorrow
 ![happy_countries_in_making](../images/pursuit_of_happiness/plots/happy_countries_in_making.png)
 
 
+![comparing_happy_countries_in_making](../images/pursuit_of_happiness/plots/Comparing_Happy_Countries_in_making.png)
+
+
 Top 10 happy countries in the making are Kosovo, Honduras, Ghana, Ivory Coast, Benin, Cambodia, Niger, Burkina Faso, Guinea, Togo, Burundi based on the trend. But this list doesn't also give the complete picture since there are already countries on the top and these countries were in the bottom of the list and the scope of improvement in these countries is also quite high. Also, one of the other common observations was that the scope for improvement saturates after reaching certain threshold and this could be seen in the countries which are already happy like Australia, Austria, Belgium, Canada, Czech Republic, Denmark, Finlan, Germany, Iceland, Ireland, Israel, Luxembourg, Mexico, Netherlands, New Zealand, Norway, Oman, Puerto Rico, Sweden, Switzerland, United Arab Emirates, United Kingdom, United States.
 
 Another trend which could be seen happy countries in making is that Family and life expectancy play a very important role. Thus at this point we can safely hypothesize that family and life expectancy play a very important role in happiness.
