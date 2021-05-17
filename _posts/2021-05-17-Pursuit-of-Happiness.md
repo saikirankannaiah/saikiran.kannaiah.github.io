@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Pursuit of Happiness 
-img: "../images/pursuit_of_happiness/plots/Title_image.jpg"
 ---
 ## Introduction
 <p style="text-align:center;"><img src="../images/pursuit_of_happiness/plots/Title_image.jpg" alt="drawing" height="300" width="200"/></p>
@@ -90,3 +89,6 @@ Another trend which could be seen happy countries in making is that Family and l
 Based on observations from the data, my hypothesis was that Family was very important for some countries to be happy where as for some it was Economy and Freedom. I tried to analyze how much these features contribute to the happines score and not surprisingly Freedom, Family and Economy where in the top 5 contributors to predicting happiness.
 
 <p style="text-align:center;"><img src="../images/pursuit_of_happiness/plots/Top_5.png" alt="drawing" height="350" width="400"/></p>
+
+
+I've made all the code available on github [here](https://github.com/saikirankannaiah/pursuit_of_happiness). Pull requests are welcome!
