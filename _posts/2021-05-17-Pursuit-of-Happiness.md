@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Pursuit of Happiness 
+title: The Pursuit of Happiness - Based on World Happiness Reports 
 ---
 ## Introduction
 <p style="text-align:center;"><img src="../images/pursuit_of_happiness/plots/Title_image.jpg" alt="drawing" height="300" width="200"/></p>
