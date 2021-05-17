@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Wearing hats of Machine learning Engineer, Software Engineer and Data Scientist during the day and reading stoic philosophy at night. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Student for life in Computer Vison, Natural language processing and Deep learning.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[saikiran.kannaiah@gmail.com](mailto:saikiran.kannaiah@gmail.com)
