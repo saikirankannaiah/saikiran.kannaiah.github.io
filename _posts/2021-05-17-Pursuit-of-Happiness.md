@@ -2,7 +2,7 @@
 layout: post
 title: The Pursuit of Happiness - Based on World Happiness Reports 
 ---
-## Introduction
+## 1. Introduction
 <p style="text-align:center;"><img src="../images/pursuit_of_happiness/plots/Title_image.jpg" alt="drawing" height="300" width="200"/></p>
 
 Happiness is this evasive feeling that people are in pursuit of constantly. I came across world happiness report somewhere on the web and I wanted to understand how is happiness measured. This report gives an overview about the happiness score of different countries around the world based the factors such GDP, Family, Life Expectancy, Freedom and Trust on Government. I was able to access this data on kaggle on this link [here](https://www.kaggle.com/unsdsn/world-happiness). There was data from the years 2015 till 2019. The nature of the data is also quite interesting since it's like a mini timeseries for each country. The description of some of the important factors is mentioned below.
@@ -25,7 +25,7 @@ Based on this data I wanted to understand or answer these following questions ba
 
 ***
 
-## Happiest Countries in the World
+## 2. Happiest Countries in the World
 Based on the data ranging from years 2015 to 2019, I tried to find which countries are the world's most happiest countries and the top 25 happiest countries in the world are as follows and list below is based arranged based on alphabetical order.
 
 ![happy_countries](../images/pursuit_of_happiness/plots/Report_results.png)
@@ -60,7 +60,7 @@ Also the countries are clustered with unique color code using happiness range an
 
 ***
 
-## Common Trends and Anomalies in Happy Countries
+## 3. Common Trends and Anomalies in Happy Countries
 
 Based on the countries mentioned above I tried to compare them based Economy, Family, Health, Freedom, Trust on Government and Generosity to look for some common trends.
 
@@ -71,7 +71,7 @@ Based on the above plots not including the anomalies all the happiest countries 
 
 ***
 
-## Happy Countries in the Making
+## 4. Happy Countries in the Making
 
 It is also beneficial to look at which countries are happy countries of tomorrow. Thus I looked for countries which were quickly climbing the happiness ladder based on their rank over consecutive years and it gave me very interesting insights.
 
@@ -84,7 +84,7 @@ Another trend which could be seen happy countries in making is that Family and l
 
 ***
 
-## Predicting Happiness
+## 5. Predicting Happiness
 
 Based on observations from the data, my hypothesis was that Family was very important for some countries to be happy where as for some it was Economy and Freedom. I tried to analyze how much these features contribute to the happines score and not surprisingly Freedom, Family and Economy where in the top 5 contributors to predicting happiness.
 
