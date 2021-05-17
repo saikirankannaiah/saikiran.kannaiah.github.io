@@ -63,8 +63,8 @@ Also the countries are clustered with unique color code using happiness range an
 ## Common Trends and Anomalies in Happy Countries
 
 Based on the countries mentioned above I tried to compare them based Economy, Family, Health, Freedom, Trust on Government and Generosity to look for some common trends.
-![comparing_happy_countries](../images/pursuit_of_happiness/plots/Comparing_Happiest_Countries_in_the_World.png)
 
+![comparing_happy_countries](../images/pursuit_of_happiness/plots/Comparing_Happiest_Countries_in_the_World.png)
 
 
 Based on the above plots not including the anomalies all the happiest countries have a common trend of high GDP, high life expectancy, high freedom, high trust on the goverment and some aspect of generosity. One of the most important factors seems to be Family with some exceptions to it. Countries like Brazil, Costa Rica and Mexico have very unusual behavior. They have very low GDP, freedom and trust on government compared to other happy countries. But also in the countries like Brazil and Costa Rica family palys are very important role in happiness. In countries like mexico an assumption can be made that people just choose to be happy no matter the circumstances and for some countries like Brazil and Costa Rica family plays a vital role. Thus for some countries happiness is a choice where as for some it comes with freedom, security and family.
